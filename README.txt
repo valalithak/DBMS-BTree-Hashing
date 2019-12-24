@@ -1,4 +1,4 @@
-B Trees has been implemented in Python whcih performs FIND, RANGE, COUNT and INSERT queries.
+B Tree implemented in Python which performs FIND, RANGE, COUNT and INSERT queries.
 
 Linear Hashing has been implemented in C++.
 Load factor has been taken as 0.85
